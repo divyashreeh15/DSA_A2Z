@@ -2,7 +2,7 @@ public class TwoSum
 {
     public static void main(String[] args)
     {
-        int[] arr= { 2,3,5,10,11,15,30};
+        int[] arr= { 3,2,4};
         int tar= 6;
         boolean ans = two(arr,tar);
         System.out.println("found: " + ans);
